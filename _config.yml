@@ -19,7 +19,7 @@ sidebar-avatar: /img/avatar-g.jpg      # use absolute URL, seeing it's used in b
 # SNS settings
 RSS: false
 weibo_username:     QC-pass
-zhihu_username:     Qcqcuik
+zhihu_username:     Qcquick
 github_username:    qcquick
 #facebook_username:  
 #jianshu_username:   
@@ -62,9 +62,9 @@ disqus_username: qcquick
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
+  clientID: 60072fc97b762eb355d8                            #生成的clientID
+  clientSecret: 9b6b8a8734101e378f88946462b0f526d974a95a    #生成的clientSecret
+  repo: qcquick.github.io    #仓库名称
   owner: qcquick    #github用户名
   admin: qcquick
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -86,7 +86,7 @@ ga_domain: auto               # 默认的是 auto, 这里我是自定义了的�
 
 # Featured Tags
 featured-tags: true                     # 是否使用首页标签
-featured-condition-size: 1              # 相同标签数量大于这个数，才会出现在首页
+featured-condition-size: 0              # 相同标签数量大于这个数，才会出现在首页
 
 
 
